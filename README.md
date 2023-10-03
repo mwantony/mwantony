@@ -20,6 +20,8 @@
 
 Olá! 😊 Meu nome é Antony Maziero Warken e sou um entusiasta do desenvolvimento de sistemas. Atualmente, estou cursando o Ensino Médio e me dedico a aprimorar minhas habilidades em Front-End, principalmente em React/Next e Node, através de cursos específicos na Alura. Além disso, tenho um nível avançado de inglês, o que me permite trabalhar em ambientes internacionais.
 
+Meu projeto principal no momento é um ecommerce desenvolvido em React/Node e utilizando o banco de dados PostgreSQL. Este projeto está atualmente em funcionamento e você pode acessá-lo em https://www.vinki.com.br.
+
 Estou constantemente em busca de atualizações no meu conhecimento e acompanho as últimas tendências no mundo da programação. Tenho paixão por desafios complexos e sou movido pela criação de soluções inovadoras.<br>
 
 Estou à procura de oportunidades desafiadoras onde posso aplicar minha experiência técnica e contribuir para o sucesso de projetos. Se você está em busca de um programador dedicado, comprometido com a excelência e sempre disposto a aprender, estou pronto para fazer parte da sua equipe.<br>
