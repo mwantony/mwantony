@@ -1,6 +1,6 @@
 ### Olá! Eu sou Antony Maziero Warken 👋
 ## 🌐 Redes Sociais:
-<a href="https://www.instagram.com/lojasvinki/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/antonymazierowarken/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/antonymazierowarken/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/antonymazierowarken/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 ![Antony GitHub stats](https://github-readme-stats.vercel.app/api?username=mwantony&show_icons=true&theme=radical)
