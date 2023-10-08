@@ -32,7 +32,7 @@ Estou à procura de oportunidades desafiadoras onde posso aplicar minha experiê
 
 Entre em contato comigo para discutirmos como posso agregar valor ao seu negócio por meio do meu conhecimento e experiência em desenvolvimento de sistemas.
 
-Estou ansioso para integrar a sua equipe e enfrentar novos desafios emocionantes.
+Estou ansioso para integrar a sua equipe e enfrentar novos desafios emocionantes. <br>
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mwantony&layout=compact&theme=radical)](https://github.com/mwantony)
 
 
