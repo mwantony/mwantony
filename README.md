@@ -24,14 +24,15 @@ Olá! 😊 Meu nome é Antony Maziero Warken e sou um entusiasta do desenvolvime
 
 Meu projeto principal no momento é um ecommerce desenvolvido em React/Node e utilizando o banco de dados PostgreSQL. Este projeto está atualmente em funcionamento e você pode acessá-lo em https://www.vinki.com.br.
 
-Estou constantemente em busca de atualizações no meu conhecimento e acompanho as últimas tendências no mundo da programação. Tenho paixão por desafios complexos e sou movido pela criação de soluções inovadoras.<br>
+Estou constantemente em busca de atualizações no meu conhecimento e acompanho as últimas tendências no mundo da programação. Tenho paixão por desafios complexos e sou movido pela criação de soluções inovadoras.
 
-Estou à procura de oportunidades desafiadoras onde posso aplicar minha experiência técnica e contribuir para o sucesso de projetos. Se você está em busca de um programador dedicado, comprometido com a excelência e sempre disposto a aprender, estou pronto para fazer parte da sua equipe.<br>
+Além disso, mantenho um portfólio pessoal onde compartilho alguns dos meus projetos e trabalhos anteriores. Você pode explorar meu portfólio em https://antonymw.vercel.app.
 
-Entre em contato comigo para discutirmos como posso agregar valor ao seu negócio por meio do meu conhecimento e experiência em desenvolvimento de sistemas.<br>
+Estou à procura de oportunidades desafiadoras onde posso aplicar minha experiência técnica e contribuir para o sucesso de projetos. Se você está em busca de um programador dedicado, comprometido com a excelência e sempre disposto a aprender, estou pronto para fazer parte da sua equipe.
+
+Entre em contato comigo para discutirmos como posso agregar valor ao seu negócio por meio do meu conhecimento e experiência em desenvolvimento de sistemas.
 
 Estou ansioso para integrar a sua equipe e enfrentar novos desafios emocionantes.
-
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mwantony&layout=compact&theme=radical)](https://github.com/mwantony)
 
 
