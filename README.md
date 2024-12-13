@@ -1,11 +1,11 @@
-### Olá! Eu sou Antony Maziero Warken 👋
-## 🌐 Redes Sociais:
+### Hey! I'm Antony Maziero Warken 👋
+## 🌐 Social Media:
 <a href="https://www.instagram.com/antonymazierowarken/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/antonymazierowarken/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 ![Antony GitHub stats](https://github-readme-stats.vercel.app/api?username=mwantony&show_icons=true&theme=radical)
 
-# 💻 Habilidades:
+# 💻 Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -18,7 +18,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
-# 💫 Sobre Mim:
+# 💫 About Me:
 
 I’m Antony Maziero Warken, a passionate developer focused on React, Next.js, Node.js, and PostgreSQL. I’ve built portfolio, live at https://antonymw.vercel.app.  
 
